@@ -1,0 +1,6 @@
+framework module Pods_rxMeetupTests {
+  umbrella header "Pods-rxMeetupTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
